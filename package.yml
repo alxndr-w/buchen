@@ -1,6 +1,6 @@
-package: buchungskalender
-version: "1.4.2"
-author: Wolfgang Bund
+package: naechtigen
+version: "0.1.4.2-dev"
+author: Alexander Walther, ehemals: Wolfgang Bund
 supportpage: https://github.com/redaxo/redaxo
 
 page:
